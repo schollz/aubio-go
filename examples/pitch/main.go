@@ -15,8 +15,8 @@ package main
 import (
 	"fmt"
 
-	"go.marzhillstudios.com/pkg/play/aubio"
-	"go.marzhillstudios.com/pkg/play/aubio/examples/util"
+	"github.com/schollz/aubio-go"
+	"github.com/schollz/aubio-go/examples/util"
 )
 
 func main() {
